@@ -6,5 +6,6 @@
         android:pivotX="40%"
         android:pivotY="60%"
         android:toDegrees="360"
-        android:duration="3000"></rotate>
+        android:duration="2000"></rotate>
+
 </set>
